@@ -57,3 +57,7 @@ node bamazonManager.js
 5.
 
 ![Fourth Choice Manager](./images/manager5.png)
+
+# Demo
+
+ ![Demo](./images/bamazonDemo.swf) 
