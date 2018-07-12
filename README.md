@@ -1,4 +1,4 @@
-# bamazon# Bamazon
+# Bamazon
 
 In this repo are two applications, `bamazonCustomer.js` and `bamazonManager.js`.
 For either of these to work you will first need to have `mySQL` and `requirer` installed.
