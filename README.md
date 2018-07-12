@@ -60,4 +60,4 @@ node bamazonManager.js
 
 ## Demo
 
-[Bamazon Demo](https://drive.google.com/file/d/1j2Rhl1ZkPHcigKcRuh1OIjYm_uvBzcdv/view)
+[Bamazon Demo](https://drive.google.com/file/d/1f6uZVn-gQWOZqSuR2ddPyFNVzwWkv-ql/view)
