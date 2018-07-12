@@ -24,11 +24,11 @@ node bamazonCustomer.js
 
 2.
 
-![Success Customer](./images/success_customer.png)
+![Success Customer](./images/customer2.png)
 
 3.
 
-![Failure Customer](./images/failure_customer.png)
+![Failure Customer](./images/customer3.png)
 
 ## Bamazon Manager
 
@@ -40,24 +40,20 @@ node bamazonManager.js
 
 1.
 
-![Initial Manager](./images/initial_manager.png)
+![Initial Manager](./images/manager1.png)
 
 2.
 
-![First Choice Manager](./images/first_choice_manager.png)
+![First Choice Manager](./images/manager2.png)
 
 3.
 
-![Second Choice Manager](./images/second_choice_manager.png)
+![Second Choice Manager](./images/manager3.png)
 
 4.
 
-![Third Choice Options Manager](./images/third_choice_options_manager.png)
+![Third Choice Options Manager](./images/manager4.png)
 
 5.
 
-![Third Choice Success Manager](./images/third_choice_success_manager.png)
-
-6.
-
-![Fourth Choice Manager](./images/fourth_choice_manager.png)
+![Fourth Choice Manager](./images/manager5.png)
