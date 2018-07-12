@@ -1,4 +1,4 @@
-# bamazon# Bamazon
+# Bamazon
 
 In this repo are two applications, `bamazonCustomer.js` and `bamazonManager.js`.
 For either of these to work you will first need to have `mySQL` and `requirer` installed.
@@ -58,6 +58,6 @@ node bamazonManager.js
 
 ![Fourth Choice Manager](./images/manager5.png)
 
-# Demo
+## Demo
 
- ![Demo](./images/bamazonDemo.swf) 
+[Bamazon Demo](https://drive.google.com/file/d/1j2Rhl1ZkPHcigKcRuh1OIjYm_uvBzcdv/view)
