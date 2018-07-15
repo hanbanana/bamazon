@@ -10,6 +10,10 @@ npm install mysql
 npm install inquirer
 ```
 
+## Bamazon Demo
+
+[Bamazon Demo](https://drive.google.com/file/d/1f6uZVn-gQWOZqSuR2ddPyFNVzwWkv-ql/view)
+
 ## Bamazon Customer
 
 To run this:
@@ -57,7 +61,3 @@ node bamazonManager.js
 5.
 
 ![Fourth Choice Manager](./images/manager5.png)
-
-## Demo
-
-[Bamazon Demo](https://drive.google.com/file/d/1f6uZVn-gQWOZqSuR2ddPyFNVzwWkv-ql/view)
